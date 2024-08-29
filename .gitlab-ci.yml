@@ -1,1 +1,3 @@
-
+build_stage:
+script:
+echo "hello from ci/cd pipeline"
